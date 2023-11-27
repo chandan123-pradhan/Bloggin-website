@@ -1,0 +1,3 @@
+class ColorConstant{
+  // static const 
+}
